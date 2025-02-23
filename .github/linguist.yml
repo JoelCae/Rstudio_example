@@ -1,1 +1,5 @@
 override:   - "*.R": R
+override:   - "*.Rmd": R Markdwon
+
+language: rebol
+suppress: true
