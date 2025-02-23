@@ -1,1 +1,3 @@
 override:   - "*.R": R
+override:   - "*.Rmd": R Markdwon
+
