@@ -1,1 +1,1 @@
-override:   - "*.r": R
+override:   - "*.R": R
