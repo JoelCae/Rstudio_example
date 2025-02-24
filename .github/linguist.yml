@@ -3,7 +3,3 @@ override:   - "*.Rmd": R Markdwon
 
 language: rebol
 suppress: true
-<<<<<<< HEAD
-=======
-
->>>>>>> 023389c014ae5006a5703b3ac00b9a077c9e2e84
